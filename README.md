@@ -1,7 +1,4 @@
-# Artists and Repertoire Prediction Models
-
-This repository contains a collection of materials describing the artist success prediction models I created while working at Chartmetric (Summer '19).
-
+# Artists & Repertoire Prediction Models
 
 ## A Very Brief Overview
 
