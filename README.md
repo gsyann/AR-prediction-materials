@@ -13,3 +13,8 @@ For a more detailed overview of the project, feel free to reach out.
 
 **And be sure to check out the [medium article](https://medium.com/chartmetric-blog/the-next-era-of-a-r-tools-a20c1b6ad5e3) my mentor, Josh Hayes, wrote!**
 
+\
+\
+Here is an example of an artist that was accurately predicted to be successful.  She only had ~25K total streams when the models discovered her!
+
+![alt text](https://github.com/gsyann/AR-prediction-materials/blob/main/presentation_photos/REI_AMI.png?raw=true)
